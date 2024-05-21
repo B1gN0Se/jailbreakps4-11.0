@@ -1,10 +1,11 @@
-## jailbreakps4-11.0
+# jailbreakps4-11.0
 
 Tested on **Kali Linux**
 
-**Description:** A shell script program to run on your VM using Linux and perform the PS4 jailbreak  
+### Description:
+A shell script program to run on your VM using Linux and perform the PS4 jailbreak  
 
-**Steps**:
+### Steps:
 
 Connect the ethernet cable between your computer and ps4
 
